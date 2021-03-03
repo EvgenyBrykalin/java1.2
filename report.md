@@ -6,15 +6,12 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/EvgenyBrykalin/java1.2/issues/1
+[Не работают платежные системы Diners Club - Carte Blanche, Diners Club - International и American Express](https://github.com/EvgenyBrykalin/java1.2/issues/1)
 
-Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
 Код программы
-
-
 
 В качестве тестовых данных использовались данные https://www.freeformatter.com/credit-card-number-generator-validator.html:
 
